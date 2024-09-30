@@ -8,7 +8,8 @@ In modern urban environments, monitoring vehicle flow and counting is crucial fo
 
 ## Solution
 The YOLO V11 model offers high accuracy and efficiency in object detection. By leveraging its capabilities, we can achieve real-time vehicle detection and counting, improving traffic monitoring systems significantly.
-![YOLO V11 Model](https://github.com/UmerMustafa00/vehicle_tracking_counting_yolov11/blob/main/Yolo%20V11%20website%20.png?raw=true)
+![YOLO V11](https://github.com/UmerMustafa00/vehicle_tracking_counting_yolov11/blob/main/Yolo%20v11%20.png?raw=true)
+
 
 ## New Launch Features
 - **Enhanced Accuracy**: YOLO V11 provides improved detection rates for various vehicle types.
