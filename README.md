@@ -1,5 +1,5 @@
 # Vehicle Detection and Counting Project Using YOLO V11
-![My Image](./Yolo V11 website.png)
+![YOLO V11 Model](https://github.com/UmerMustafa00/vehicle_tracking_counting_yolov11/blob/main/Yolo%20V11%20website%20.png?raw=true)
 ## Overview
 This project implements a real-time vehicle detection and counting system using the latest YOLO V11 model. The system accurately detects and counts vehicles across multiple lanes (Lane A, Lane B, Lane C) and provides valuable insights for traffic monitoring and management.
 
